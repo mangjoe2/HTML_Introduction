@@ -1,0 +1,44 @@
+
+body{
+    background-color: #88805c;
+}
+
+hr{
+    
+    border-style: dotted none;
+    border-top-style: dotted;
+    border-width: grey;
+    border-width: 5px;
+    width: 10%;
+    
+
+}
+.Broccoli{
+        height: 10%;
+        width: 20%;
+        background-color: red;
+        border-radius: 108px;
+    }
+
+.Bacon{
+    width: 90px;
+    height: 90px;
+    background-color: blueviolet;
+
+}
+img:hover{
+    background-color: darkgreen;
+}
+
+
+h1{
+    color: rgb(243, 237, 248);
+}
+
+h3{
+    color: aqua;
+}
+
+#holla{
+    color: chartreuse;
+}
